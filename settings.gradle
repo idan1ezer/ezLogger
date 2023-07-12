@@ -14,3 +14,5 @@ dependencyResolutionManagement {
 }
 rootProject.name = "ezLogger"
 include ':app'
+include ':ezLogger'
+include ':Library'
